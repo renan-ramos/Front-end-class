@@ -1,0 +1,23 @@
+{
+  "name": "front-end-class",
+  "version": "1.0.0",
+  "description": "Aprendendo o basico de front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "cowsay Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renan-ramos/Front-end-class.git"
+  },
+  "author": "Renan Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renan-ramos/Front-end-class/issues"
+  },
+  "homepage": "https://github.com/renan-ramos/Front-end-class#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
