@@ -1,0 +1,33 @@
+ROADMAP
+
+HTML
+    - Escrever HTML5 (semantico)
+
+CSS
+    - FlexBox 
+        https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-flexbox-01-f75be5f35d3d)
+    - Grid
+    - Design Responsivo
+    - Mobile first
+
+JS 
+    - Básico de JS
+    - Saber fazer um fetch/axios
+    - Escrever ES6 / Javascript Moderno
+        https://www.w3schools.com/js/js_es6.asp
+    - Nocoes de Nodejs
+
+Typescript
+    - saber tipar/ler código tipado
+
+Git
+    - Básico do Git
+
+Links
+    roadmap - https://roadmap.sh/frontend
+
+    Cursos (tem legenda)
+
+    curso HTML - https://www.youtube.com/watch?v=pQN-pnXPaVg
+    curso JS   - https://www.youtube.com/watch?v=PkZNo7MFNFg
+    curso CSS  - https://www.youtube.com/watch?v=ieTHC78giGQ
